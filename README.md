@@ -32,7 +32,7 @@ Digit is just getting started! Future updates will include:
 - Encrypted, cloud-synced memory for seamless access across devices.
 
 ## 🧑‍💻 Getting Started
-Clone the repo: `git clone https://github.com/yourusername/digit.git`
+Clone the repo: `git clone https://github.com/thpushpak04/digit.git`
 
 
 *Note*: Local LLM setup (Ollama/GPT4All) is required for AI functionality.
